@@ -9,8 +9,8 @@
 <h4 align="center">Dyor Labs bring the <a href="https://en.wikipedia.org/wiki/Blockchain">Blockchain</a> world to your devices. We create next-generation decentralized apps and launch blockchain-based financial solutions.</h4>
 
 <p align="center">
-  <a href="#about">About</a> •
-  <a href="#mission">Mission</a>
+  <a href="#mission">Mission</a> •
+  <a href="#community">Community</a>
 </p>
 
 <div align="center">
