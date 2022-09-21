@@ -10,7 +10,6 @@
 
 <p align="center">
   <a href="#about">About</a> •
-  <a href="#team">Team</a> •
   <a href="#mission">Mission</a>
 </p>
 
