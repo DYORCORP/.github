@@ -1,6 +1,6 @@
 <h1 align="center">
   <br>
-  <a href="../resources/images/dyor.png"><img src="../resources/images/dyor.png" alt="DYOR" width="300"></a>
+  <a href="https://github.com/masxxiii/resources/blob/main/logo/dyor.png?raw=true"><img src="https://github.com/masxxiii/resources/blob/main/logo/dyor.png?raw=true" alt="DYOR" width="300"></a>
   <br>
   Dyor Labs
   <br>
