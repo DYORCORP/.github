@@ -1,6 +1,6 @@
 <h1 align="center">
   <br>
-  <a href="https://raw.githubusercontent.com/DYORCORP/dyor_api/main/resources/wallet/icons/dyor.png?token=GHSAT0AAAAAABY7IUC5RVPHENBRNNIPYJ7YYZK4LSA"><img src="https://raw.githubusercontent.com/DYORCORP/dyor_api/main/resources/wallet/icons/dyor.png?token=GHSAT0AAAAAABY7IUC5RVPHENBRNNIPYJ7YYZK4LSA" alt="DYOR" width="300"></a>
+  <a href="../resources/images/dyor.png"><img src="../resources/images/dyor.png" alt="DYOR" width="300"></a>
   <br>
   Dyor Labs
   <br>
