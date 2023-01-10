@@ -13,16 +13,9 @@
   <a href="#community">Community</a>
 </p>
 
-<div align="center">
-
-![screenshot](https://lamynaals.com/assets/services/crypt.gif)
-
-</div>
-
 ## Mission
 
 Our goal is to empower the next generation of Web 3.0 explorers & build the most customer-focused platform, where people are able to connect with each other, explore early-stage projects and trade seamlessly across chains & multiple devices.
-
 
 ## Community
 
